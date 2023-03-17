@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancuzer&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancuzer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancuzer&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
