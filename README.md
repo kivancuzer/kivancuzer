@@ -1,4 +1,4 @@
-### Hi I'm Kivanc Uzer 👋
+### Hi, I'm Kivanc Uzer 👋
 
 Entrepreneur & Software Developer🧑🏻‍💻
 
